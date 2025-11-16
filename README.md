@@ -1,4 +1,5 @@
 # NHS Digital Transformation Gap Analysis
+<img width="1024" height="1024" alt="nhs COVER" src="https://github.com/user-attachments/assets/5a9483d3-12ee-4d1b-b84f-057bf0833642" />
 
 A comprehensive business analysis of the National Health Service (NHS) in the UK to identify gaps between current service delivery and the “Digital First” future state envisioned in NHS strategy.
 
